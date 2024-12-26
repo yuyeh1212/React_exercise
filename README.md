@@ -4,4 +4,5 @@
 12/22 JS與JSX  
 12/23 JSX如何運作
 12/26 認識JSX 與 HTML 的標籤屬性
-12-26 React 行內樣式
+12/26 React 行內樣式
+12/27 React 除錯
